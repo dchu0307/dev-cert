@@ -20,7 +20,6 @@ const config = getDefaultConfig({
   appName: 'My RainbowKit App',
   projectId: 'YOUR_PROJECT_ID',
   chains: [sepolia],
-  initialChain: sepolia,
   ssr: true, // If your dApp uses server side rendering (SSR)
 });
 
